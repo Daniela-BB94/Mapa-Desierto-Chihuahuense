@@ -15,6 +15,7 @@ webshot::install_webshot()
 
 
 # script_mapa.R
+
 # Mapa interactivo del Desierto Chihuahuense con datos edáficos y litológicos
 
 # -----------------------------
